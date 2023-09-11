@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ca8ff6d5632eeea43b26ab8ae3716944
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Flamante Round
+  fontNames:
+  - Flamante Round
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c6ae699719341874dbd095fb7c77a956, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -4,5 +4,29 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LogoUjatDacytiInah.unity
+    guid: d8a1eb646dc3f4b4dbe39585556c3b79
+  - enabled: 1
+    path: Assets/Scenes/IntroduccionVideo.unity
+    guid: b8182d570500b6048ab7c0ffe136be63
+  - enabled: 1
+    path: Assets/Scenes/MuseoHome.unity
+    guid: ef983af6d135c4a409dedd5fbe0ca850
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 0c7babe370a8f174a869e1acc17dc349
+  - enabled: 1
+    path: Assets/Scenes/InfoSceneInah.unity
+    guid: 987ef62463c8e4e41a2af391deb6a413
+  - enabled: 1
+    path: Assets/Scenes/InfoINAH.unity
+    guid: 49c96de7038fc4e4c80503b9dfdee112
+  - enabled: 1
+    path: Assets/Scenes/InfoUJAT.unity
+    guid: 3736df207db1f254e960bfa6795f48df
+  - enabled: 1
+    path: Assets/Scenes/CreditosAdicionales.unity
+    guid: 37c57688f19a42d449bc974554ee9f8b
   m_configObjects: {}
